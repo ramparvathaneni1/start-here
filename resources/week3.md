@@ -6,7 +6,7 @@
 
 | Time      | Day 11                         | Day 12                         | Day 13           | Day 14                | Day 15              |
 |-----------|-------------------------------|-------------------------------|------------------|----------------------|--------------------|
-| **9:00 AM**  | 🟦  Load Testing, Mocks, Stubs, Fakes    | 🟦  Selenium Testing     | 🟦 Docker And Containerzation             | 🟦 Jenkins CI/CD Pipelines  | 🟦 AWS Cloud Formation Template Guest Demo  |
+| **9:00 AM**  | 🟦 Load Testing, Mocks, Stubs, Fakes    | 🟦 Selenium Testing     | 🟦 Docker And Containerzation             | 🟦 Jenkins CI/CD Pipelines  | 🟦 AWS Cloud Formation Template Guest Demo  |
 | **10:00 AM** | 🟦 Continue...     | 🟦 Continue...           | 🟦 Continue...  | 🟦 Continue...        | 🟦 Continue... |
 | **11:00 AM** |   🟩 Pair Programming TDD Escape Room                           |     🟩 Lab - Selenium Tests                        |  🟩 Lab - Containerize ToDo List API               |   🟩 Lab - ToDo Pipeline                   |     🟦 Continue...              |
 | **12:30 PM** | Lunch                         | Lunch                         | Lunch            | Lunch                | Lunch              |
