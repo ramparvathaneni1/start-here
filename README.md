@@ -1,5 +1,7 @@
 # Modern Engineering Fundamentals
 
+## Getting Started - Cohort 5 January 2024
+
 
 # Class Schedules
 
@@ -25,7 +27,7 @@
 
    ![](./assets/ssh.png)
 
-5. Open the terminal and `cd` into your Documents folder: `cd ~/Documents`.
+5. Open the terminal and `cd` into your Documents folder: `cd ~/mef`.
 
 6. Next, select the destination where you want to save the repository then type: `git clone <paste_git_url_here>`
 
