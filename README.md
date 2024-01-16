@@ -166,6 +166,7 @@ Finally, lets put some good stuff in there by editing the newly created `.gitign
 *.exe
 *.o
 *.so
+core.*
 
 # Packages #
 ############
@@ -205,10 +206,19 @@ spec/reports
 spec/tmp
 test/tmp
 test/version_tmp
+/coverage
 
 # node #
 ########
 node_modules
+/.pnp
+.pnp.js
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# production
+/build
 
 # Rails #
 #########
@@ -254,6 +264,10 @@ tags
 # Env #
 #######
 .env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
 
 # Python #
 #######
