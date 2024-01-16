@@ -11,7 +11,7 @@
 
 ## Deliverables Due Dates
 
-|          | [Build Your own API]()                    | [Build Your Own Full Stack Application]()                   | [Selenium Testing Lab]()                    | [Dockerizing an Application]()                    |
+|          | [Build Your own API](https://git.generalassemb.ly/ModernEngineering/pru-individual-in-class-app)                    | [Build Your Own Full Stack Application](https://git.generalassemb.ly/ModernEngineering/pru-individual-in-class-app-react-frontend)                   | [Selenium Testing Lab]()                    | [Dockerizing an Application]()                    |
 | -------- | ------------------------- | ------------------------- | ------------------------- | ------------------------- |
 | Due Date | 01/15 | 01/23 | 01/29 | 01/30|
 
