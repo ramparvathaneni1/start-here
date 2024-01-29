@@ -13,7 +13,7 @@
 
 |          | [Build Your own API](https://git.generalassemb.ly/ModernEngineering/pru-individual-in-class-app)                    | [Build Your Own Full Stack Application](https://git.generalassemb.ly/ModernEngineering/pru-individual-in-class-app-react-frontend)                   | [Selenium Testing Lab]()                    | [Dockerizing an Application]()                    |
 | -------- | ------------------------- | ------------------------- | ------------------------- | ------------------------- |
-| Due Date | 01/15 | 01/23 | 01/29 | 01/30|
+| Due Date | 01/15 | 01/23 | 01/30 | 01/30|
 
 
 <br>
@@ -220,43 +220,6 @@ yarn-error.log*
 # production
 /build
 
-# Rails #
-#########
-**.orig
-*.rbc
-*.sassc
-.project
-.rvmrc
-.sass-cache
-/.bundle
-/db/*.sqlite3
-/log/*
-/public/system/*
-/tmp/*
-/vendor/bundle
-
-
-# Ruby #
-########
-*.gem
-*.rbc
-.bundle
-.config
-.yardoc
-_yardoc
-doc/
-InstalledFiles
-lib/bundler/man
-pkg
-rdoc
-tmp
-
-# for a library or gem, you might want to ignore these files since the code is
-# intended to run in multiple environments; otherwise, check them in:
-# Gemfile.lock
-# .ruby-version
-# .ruby-gemset
-
 # CTags #
 #########
 tags
@@ -268,11 +231,6 @@ tags
 .env.development.local
 .env.test.local
 .env.production.local
-
-# Python #
-#######
-*.pyc
-__pycache__/
 
 # Misc #
 .eslintcache
