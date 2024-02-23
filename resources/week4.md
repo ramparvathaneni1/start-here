@@ -6,7 +6,7 @@
 
 | Time      | Day 16                         | Day 17                         | Day 18            | Day 19                | Day 20              |
 |-----------|-------------------------------|-------------------------------|------------------|----------------------|--------------------|
-| **9:00 AM**  | 🟦  Full Review Code-Along    | 🟩 Capstone Project     | 🟩 Capstone Project            | 🟩 Capstone Project | 🟩 Capstone Project |
+| **9:00 AM**  | 🟦 [Full Review Code-Along](./slide-decks/day16.pdf)    | 🟩 [Capstone Project](https://git.generalassemb.ly/ModernEngineering/pru-capstone-starter-code)     | 🟩 [Capstone Project](https://git.generalassemb.ly/ModernEngineering/pru-capstone-starter-code)           | 🟩 [Capstone Project](https://git.generalassemb.ly/ModernEngineering/pru-capstone-starter-code) | 🟩 [Capstone Project](https://git.generalassemb.ly/ModernEngineering/pru-capstone-starter-code) |
 | **10:00 AM** | 🟦 Continue...     | 🟩  Continue...           | 🟩 Continue...  | 🟩 Continue...        | 🟩 Continue... |
 | **11:00 AM** |   🟦  Continue...                           |     🟩 Continue...                        |  🟩 Continue...               |   🟩 Continue...                    |     🟩 Continue...               |
 | **12:30 PM** | Lunch                         | Lunch                         | Lunch            | Lunch                | Lunch              |
