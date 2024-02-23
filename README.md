@@ -7,13 +7,13 @@
 
 |          | Week 1                    | Week 2                    | Week 3                    | Week 4                    |
 | -------- | ------------------------- | ------------------------- | ------------------------- | ------------------------- |
-| Schedule | [View Schedule](./resources/week1.md) | [View Schedule](./resources/week2.md) | [View Schedule](./resources/week3.md) | [View Schedule](./resources/week4.md) |
+| Schedule | [View Schedule](./resources/week1.md) | [View Schedule]() | [View Schedule]() | [View Schedule]() |
 
 ## Deliverables Due Dates
 
 |          | [Build Your own API](https://git.generalassemb.ly/ModernEngineering/pru-individual-in-class-app)                    | [Build Your Own Full Stack Application](https://git.generalassemb.ly/ModernEngineering/pru-individual-in-class-app-react-frontend)                   | [Selenium Testing Lab](https://git.generalassemb.ly/ModernEngineering/add-selenium-to-personal-application)                    | [Dockerizing an Application](https://git.generalassemb.ly/ModernEngineering/docker-lab)                    |
 | -------- | ------------------------- | ------------------------- | ------------------------- | ------------------------- |
-| Due Date | 01/15 | 01/23 | 01/30 | 01/30|
+| Due Date | 03/01 | 03/08 | 03/13 | 03/14|
 
 
 <br>
