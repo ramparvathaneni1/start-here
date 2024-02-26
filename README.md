@@ -1,7 +1,6 @@
 # Modern Engineering Fundamentals
 
 ## Getting Started - Cohort 26 February 2024
-=======
 
 
 # Class Schedules
