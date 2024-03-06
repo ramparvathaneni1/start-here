@@ -4,7 +4,7 @@
 
 | Time      | Day 1                         | Day 2                         | Day 3            | Day 4                | Day 5              |
 |-----------|-------------------------------|-------------------------------|------------------|----------------------|--------------------|
-| **9:00 AM**  | 🟦 [Legacy Systems & the Cloud](/resources/slide-decks/day1.pdf)    | 🟦 [Testing APIs with Postman](/resources/slide-decks/day2.pdf)     | 🟦 [SQL](/resources/slide-decks/day3.pdf)              | 🟦 [APIs With Express To-Do-List](/resources/slide-decks/day4.pdf)   | 🟦 [JSON Web Tokens](/resources/slide-decks/day5.pdf)    |
+| **9:00 AM**  | 🟦 [Legacy Systems & the Cloud](/resources/slide-decks/day1.md)    | 🟦 [Testing APIs with Postman](/resources/slide-decks/day2.pdf)     | 🟦 [SQL](/resources/slide-decks/day3.pdf)              | 🟦 [APIs With Express To-Do-List](/resources/slide-decks/day4.pdf)   | 🟦 [JSON Web Tokens](/resources/slide-decks/day5.pdf)    |
 | **10:00 AM** | 🟦 [Web Application Security](/resources/slide-decks/day1.pdf)      | 🟩 [Postman Application](https://git.generalassemb.ly/ModernEngineering/express-dmv-api-monolith)           | 🟩 [Build Raw SQL Queries](https://git.generalassemb.ly/ModernEngineering/raw-sql-superstore) | 🟦 Continue...        | 🟦 [Auth with JWT Walkthrough](https://git.generalassemb.ly/ModernEngineering/node-express-jwt-gold-codes-lesson) |
 | **11:00 AM** |   🟦 Continue...                            |     🟩 Continue...                          |  🟩 Continue...                |   🟦 Continue...                   |     🟦 Continue...               |
 | **12:30 PM** | Lunch                         | Lunch                         | Lunch            | Lunch                | Lunch              |
