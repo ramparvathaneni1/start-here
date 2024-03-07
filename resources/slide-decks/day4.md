@@ -1,1 +1,3 @@
+## [Week 1, Day 4](../week1.md)
+
 ![Alt text](day4-01.png) ![Alt text](day4-02.png) ![Alt text](day4-03.png) ![Alt text](day4-04.png) ![Alt text](day4-05.png) ![Alt text](day4-06.png) ![Alt text](day4-07.png) ![Alt text](day4-08.png) ![Alt text](day4-09.png) ![Alt text](day4-10.png) ![Alt text](day4-11.png) ![Alt text](day4-12.png) ![Alt text](day4-13.png) ![Alt text](day4-14.png) ![Alt text](day4-15.png) ![Alt text](day4-16.png)
