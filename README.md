@@ -7,7 +7,7 @@
 
 |          | Week 1                    | Week 2                    | Week 3                    | Week 4                    |
 | -------- | ------------------------- | ------------------------- | ------------------------- | ------------------------- |
-| Schedule | [View Schedule](./resources/week1.md) | [View Schedule](./resources/week2.md) | [View Schedule](./resources/week3.md) | [View Schedule]() |
+| Schedule | [View Schedule](./resources/week1.md) | [View Schedule](./resources/week2.md) | [View Schedule](./resources/week3.md) | [View Schedule](./resources/week4.md) |
 
 ## Deliverables Due Dates
 
