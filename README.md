@@ -92,7 +92,11 @@ You will then have the slide open in your browser window and any urls in the sli
 
 * Before proceeding make sure that you have spelled the password correct which should be **postgres**
 
-To resolve a PostgreSQL authentication error by setting the authentication method to `md5`, follow these steps:
+To resolve a PostgreSQL authentication error by setting the authentication method to `md5`, run the following script:
+
+1. `sudo sh ~/mef/start-here/fixpg.sh`
+
+If this doesn't work, try the following:
 
 1. **Open `pg_hba.conf` for Editing**:
    In the terminal, run:
