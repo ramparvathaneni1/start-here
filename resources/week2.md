@@ -4,7 +4,7 @@
 
 # Week 2 Class Schedule: React, Intro to TDD
 
-| Time      | Day 6                         | Day 7                         | Day 8            | Day 9                | Day 10              |
+| Time      | [Day 6](https://git.generalassemb.ly/ModernEngineering/react-foundations)                         | Day 7                         | Day 8            | Day 9                | Day 10              |
 |-----------|-------------------------------|-------------------------------|------------------|----------------------|--------------------|
 | **9:00 AM**  | 🟦  [Introducing React](./slide-decks/day6.md)    | 🟦 [React State Management (slides)](./slide-decks/day7.md) <br> 🟦 [Introduction to React State](https://git.generalassemb.ly/ModernEngineering/state-and-styling-in-react/blob/main/01-state.md)   | 🟦 [React Unidirectional Data Flow](./slide-decks/day8.md)              | 🟦 [Full Stack React](./slide-decks/day9.pdf)   | 🟦 [TDD In JavaScript](./slide-decks/day10.pdf)   |
 | **10:00 AM** | 🟦 [React Hello Component Walkthrough](https://git.generalassemb.ly/ModernEngineering/react-foundations/blob/main/03-components.md#code-along-a-very-basic-component)     | 🟩 [Blog and Posts State](https://git.generalassemb.ly/ModernEngineering/state-and-styling-in-react/blob/main/02-state-exercise.md)           | 🟦 [Filtering Fruits Application](https://git.generalassemb.ly/ModernEngineering/react-unidirectional-data-flow-fruits-filter)  | 🟦 [Full-Stack To Do Walkthrough](https://git.generalassemb.ly/ModernEngineering/react-todo-app-api-lesson)        | 🟦 [Introduction To Jest](./slide-decks/day10.pdf) |
